@@ -6,6 +6,7 @@ How to Install
 1. If you do not already have it installed, please install the latest version of AutoHotKey from their website https://www.autohotkey.com/
 2. If you are using a SNES USB controller plug that into your computer.
 3. Open the .ahk file that matches your setup.
-4. Looking at the controller mapping images for button controls.5. Enjoy editing faster!
+4. Look at the controller mapping images for button controls.
+5. Enjoy editing faster!
 
 This version of the program only supports up to 4k resolution monitors. Email Spencer@tmmedia.ca if you have any questions!
