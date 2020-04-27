@@ -11,7 +11,7 @@
 ; Joypad Button 1 (X Button)
 ; Move forward 30 frames and move the closest region to that new position
 
-^+1::
+F21::
 
 Loop, 30
 {
@@ -89,7 +89,7 @@ Return
 ; Joypad Button 4 (Y Button)
 ; Move forward 60 frames and move the closest region to that new position
 
-^+4::
+F24::
 
 Loop, 60
 {
@@ -166,7 +166,7 @@ Return
 ; Joypad Button 2 (A Button)
 ; Move backward 10 frames and move the closest region to that new position
 
-^+2::
+F22::
 
 ; More Right 10 frames
 Loop, 30
@@ -244,7 +244,7 @@ Return
 ; Joypad Button 3 (B Button)
 ; Move backward 30 frames and move the closest region to that new position
 
-^+3::
+F23::
 
 ; More Right 30 frames
 Loop, 60
@@ -325,7 +325,7 @@ Return
 ; Advanced Image Search
 ; More Region to PLay Head
 
-^+0::
+F20::
 
 ; Advanced Image Search
 ; More Region to PLay Head
