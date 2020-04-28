@@ -1,0 +1,21 @@
+Welcome to the TMMdance AutoHotKey script created by Spencer Rieu developed for TMMDance. This is a read me document that will help you set up and get working with the script.
+
+Local Setup - How to Install
+
+1. If you do not already have it installed, please install the latest version of AutoHotKey from their website https://www.autohotkey.com/
+2. If you are using a SNES USB controller plug that into your computer.
+3. Open the .ahk file that matches your setup.
+4. Look at the controller mapping images for button controls and enjoy editing faster!
+
+Remote Desktop Setup - How to Install
+
+If you are planning to run this script over google remote desktop you will have a couple of extra steps to complete. This set up is for the controller mappings only because the keyboard and mouse work correctly over remote desktop without the additional setup.
+
+1. On both the remote and local computer that you are working with, If you do not already have it installed, please install the latest version of AutoHotKey from their website https://www.autohotkey.com/
+2. If you are using a SNES USB controller plug that into your local computer.
+3. Open the “TMMDance Editing Controller - Remote Desktop - Remote Script.ahk” on the remote computer.
+4.Open the “TMMDance Editing Controller - Remote Desktop - Local Script.ahk” on the local computer.
+5. Look at the controller mapping images for button controls and enjoy editing fast
+
+
+This version of the program only supports up to 4k resolution monitors. Email Spencer@tmmedia.ca if you have any questions!
