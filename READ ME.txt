@@ -19,5 +19,10 @@ If you are planning to run this script over google remote desktop you will have 
 4.Open the “TMMDance Editing Controller - Remote Desktop - Local Script.ahk” on the local computer.
 5. Look at the controller mapping images for button controls and enjoy editing fast
 
+Additional Settings and FAQ
 
-This version of the program only supports up to 4k resolution monitors. Email Spencer@tmmedia.ca if you have any questions!
+4K - If you would like to run this program on a 4k monitor, open the script in a text editor and replace the instances of “1920” with “4000” (If the program does not work after this you may need up update your region picture file)
+
+Errors - If the program can not find any cursor or region images you may need to update this with screenshots from your vegas 13 setup. This may be caused because of unique desktop resolutions, try 1920 x 1080 for best results.
+
+Email Spencer@tmmedia.ca if you have any questions!
