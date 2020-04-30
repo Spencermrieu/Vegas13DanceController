@@ -16,12 +16,14 @@ If you are planning to run this script over google remote desktop you will have 
 1. On both the remote and local computer that you are working with, If you do not already have it installed, please install the latest version of AutoHotKey from their website https://www.autohotkey.com/
 2. If you are using a SNES USB controller plug that into your local computer.
 3. Open the “TMMDance Editing Controller - Remote Desktop - Remote Script.ahk” on the remote computer.
-4.Open the “TMMDance Editing Controller - Remote Desktop - Local Script.ahk” on the local computer.
+4. Open the “TMMDance Editing Controller - Remote Desktop - Local Script.ahk” on the local computer.
 5. Look at the controller mapping images for button controls and enjoy editing fast
 
 Additional Settings and FAQ
 
 4K - If you would like to run this program on a 4k monitor, open the script in a text editor and replace the instances of “1920” with “4000” (If the program does not work after this you may need up update your region picture file)
+
+Controller Unplugged - If you unplug the controller from the computer, the program will need to be reopened.
 
 Errors - If the program can not find any cursor or region images you may need to update this with screenshots from your vegas 13 setup. This may be caused because of unique desktop resolutions, try 1920 x 1080 for best results.
 
